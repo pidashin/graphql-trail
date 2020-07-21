@@ -1,0 +1,7 @@
+# Prisma Migrate lockfile v1
+
+20200714104636-init
+20200714105101-update-user
+20200714163138-update-trip
+20200715102259-update-trip
+20200720153352-update-trip
