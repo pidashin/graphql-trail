@@ -9,7 +9,7 @@
   "dependencies": {
     "@prisma/client": "^2.2.2",
     "apollo-datasource-rest": "^0.9.3",
-    "apollo-server": "^2.15.1",
+    "apollo-server": "^2.25.4",
     "bcryptjs": "^2.4.3",
     "graphql": "^15.3.0",
     "jsonwebtoken": "^8.5.1"
